@@ -401,7 +401,7 @@ hr {
 
 }
 img{
-    max-height:430px;
+    max-height:520px;
 }
 
 .no-bullets {
@@ -441,6 +441,15 @@ li{
     /*letter-spacing:1px;*/
 }
 
+a{
+    text-decoration:none;
+    color: #484545;
+}
+
+a:hover{
+    text-decoration: none;
+    color:black;
+}
 
 .rightend{
     /*padding-left: 90px;*/
@@ -455,6 +464,10 @@ li{
     right:0;
 }
 
+.about img{
+    max-height:300px;
+    padding-left:200px;
+}
 
 
 /*ul, li {*/
