@@ -310,10 +310,10 @@ hr {
     font-size:3em;
     text-align:center;
     z-index:1200;
-    -webkit-animation:fadein 5s ease; /* Safari, Chrome and Opera > 12.1 */
-    -moz-animation:  fadein 5s ease; /* Firefox < 16 */
-    -o-animation:  fadein 5s ease; /* Opera < 12.1 */
-    animation: fadein 5s ease;
+    -webkit-animation:fadein 4.2s ease; /* Safari, Chrome and Opera > 12.1 */
+    -moz-animation:  fadein 4.2s ease; /* Firefox < 16 */
+    -o-animation:  fadein 4.2s ease; /* Opera < 12.1 */
+    animation: fadein 4.2s ease;
 }
 .under{
     text-align:center;
@@ -332,17 +332,17 @@ hr {
     letter-spacing:2px;
     text-align:center;
     z-index:1200;
-    -webkit-animation:fadein 5s ease; /* Safari, Chrome and Opera > 12.1 */
-    -moz-animation:  fadein 5s ease; /* Firefox < 16 */
-    -o-animation:  fadein 5s ease; /* Opera < 12.1 */
-    animation: fadein 5s ease;
+    -webkit-animation:fadein 4.5s ease; /* Safari, Chrome and Opera > 12.1 */
+    -moz-animation:  fadein 4.5s ease; /* Firefox < 16 */
+    -o-animation:  fadein 4.5s ease; /* Opera < 12.1 */
+    animation: fadein 4.5s ease;
     margin-bottom: 18px;
 }
 
 
 @keyframes fadein2 {
     0% { opacity: 0; }
-    35%{opacity: 0; }
+    50%{opacity: 0; }
     100% { opacity: 1; }
 }
 
@@ -425,10 +425,10 @@ hr {
     -moz-column-gap:      5px;
     column-count:         4;
     column-gap:           5px;
-    -webkit-animation:fadein2 2.7s ease; /* Safari, Chrome and Opera > 12.1 */
-    -moz-animation:  fadein2 2.7s ease; /* Firefox < 16 */
-    -o-animation:  fadein2 2.7s ease; /* Opera < 12.1 */
-    animation: fadein2 2.7s ease;
+    -webkit-animation:fadein2 3.5s ease; /* Safari, Chrome and Opera > 12.1 */
+    -moz-animation:  fadein2 3.5s ease; /* Firefox < 16 */
+    -o-animation:  fadein2 3.5s ease; /* Opera < 12.1 */
+    animation: fadein2 3.5s ease;
 }
 
 #photos img {
