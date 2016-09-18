@@ -425,10 +425,10 @@ hr {
     -moz-column-gap:      5px;
     column-count:         4;
     column-gap:           5px;
-    -webkit-animation:fadein2 3.5s ease; /* Safari, Chrome and Opera > 12.1 */
-    -moz-animation:  fadein2 3.5s ease; /* Firefox < 16 */
-    -o-animation:  fadein2 3.5s ease; /* Opera < 12.1 */
-    animation: fadein2 3.5s ease;
+    -webkit-animation:fadein2 4.5s ease; /* Safari, Chrome and Opera > 12.1 */
+    -moz-animation:  fadein2 4.5s ease; /* Firefox < 16 */
+    -o-animation:  fadein2 4.5s ease; /* Opera < 12.1 */
+    animation: fadein2 4.5s ease;
 }
 
 #photos img {
