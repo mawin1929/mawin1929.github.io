@@ -396,6 +396,16 @@ hr {
     right:0;
 }
 
+#email2{
+    font-weight:600;
+    padding-top:24px;
+    padding-right: 90px;
+    position:absolute;
+    font-size: 1.4em;
+    top:0;
+    right:0;
+}
+
 
 #facebook{
     font-weight:600;
